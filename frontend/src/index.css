@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+@config "../tailwind.config.js";
+
+@layer base {
+  body {
+    @apply bg-brand-950 text-slate-200 font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  /* Reusable button styles based on design direction */
+  .btn-primary {
+    @apply bg-accent text-brand-950 font-semibold px-6 py-2 rounded-md transition-colors hover:bg-accent-hover shadow-sm;
+  }
+  
+  .btn-secondary {
+    @apply bg-brand-900 text-slate-200 border border-brand-800 font-medium px-6 py-2 rounded-md transition-colors hover:bg-brand-800;
+  }
+
+  .card {
+    @apply bg-brand-900 border border-brand-800/50 rounded-lg shadow-sm;
+  }
+}

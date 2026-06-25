@@ -1,0 +1,199 @@
+{
+  "market_standard_clauses": [
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "PRICING",
+      "standard_text": "The Service Fees shall be payable monthly in advance, with the first payment due on the Effective Date. Any fees not paid within thirty (30) days of the due date shall accrue interest at the rate of 1.5% per month or the maximum rate permitted by law, whichever is lower."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "TERM_TERMINATION",
+      "standard_text": "This Agreement shall commence on the Effective Date and continue for a period of twelve (12) months, unless terminated earlier as provided herein. Either party may terminate this Agreement upon thirty (30) days written notice to the other party."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "LIABILITY",
+      "standard_text": "Except for payment obligations and breaches of confidentiality, neither party's liability to the other shall exceed the amount of fees paid under this Agreement in the twelve (12) months preceding the claim."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "INDEMNIFICATION",
+      "standard_text": "Each party agrees to indemnify, defend, and hold harmless the other party from and against any third-party claims arising from its breach of this Agreement or its gross negligence or willful misconduct."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "IP_OWNERSHIP",
+      "standard_text": "Provider retains all rights, title, and interest in the Service and any intellectual property therein. Customer receives only a limited, non-exclusive, non-transferable license to use the Service during the term."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "CONFIDENTIALITY",
+      "standard_text": "Each party agrees to maintain the confidentiality of the other party's confidential information and not to disclose it to any third party without prior written consent, except as required by law."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "AUTO_RENEWAL",
+      "standard_text": "This Agreement shall not automatically renew. Any renewal must be agreed upon in writing by both parties."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "GOVERNING_LAW",
+      "standard_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles."
+    },
+    {
+      "contract_type": "SAAS_AGREEMENT",
+      "clause_type": "LIMITATION_OF_LIABILITY",
+      "standard_text": "In no event shall either party be liable for indirect, incidental, special, consequential, or punitive damages, regardless of the cause of action or the theory of liability."
+    },
+    {
+      "contract_type": "NDA",
+      "clause_type": "CONFIDENTIALITY",
+      "standard_text": "The Receiving Party agrees to hold all Confidential Information in strict confidence and not to disclose it to any third party without the prior written consent of the Disclosing Party."
+    },
+    {
+      "contract_type": "NDA",
+      "clause_type": "TERM_TERMINATION",
+      "standard_text": "This Agreement shall remain in effect for a period of three (3) years from the Effective Date, unless terminated earlier by either party upon thirty (30) days written notice."
+    },
+    {
+      "contract_type": "NDA",
+      "clause_type": "LIABILITY",
+      "standard_text": "Neither party shall be liable to the other for any damages arising from the disclosure of Confidential Information pursuant to a court order or legal requirement, provided that the disclosing party provides prompt notice to the other party."
+    },
+    {
+      "contract_type": "NDA",
+      "clause_type": "IP_OWNERSHIP",
+      "standard_text": "All Confidential Information remains the exclusive property of the Disclosing Party. Nothing in this Agreement shall be construed as granting any rights to the Confidential Information."
+    },
+    {
+      "contract_type": "NDA",
+      "clause_type": "GOVERNING_LAW",
+      "standard_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "PRICING",
+      "standard_text": "Vendor shall invoice Customer monthly for services rendered. Payment shall be due within forty-five (45) days of receipt of invoice. Prices may be adjusted annually upon thirty (30) days written notice."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "TERM_TERMINATION",
+      "standard_text": "This Agreement shall commence on the Effective Date and continue until terminated by either party upon sixty (60) days written notice."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "LIABILITY",
+      "standard_text": "Vendor's total liability under this Agreement shall not exceed the total amount paid by Customer to Vendor in the six (6) months preceding the claim."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "INDEMNIFICATION",
+      "standard_text": "Vendor agrees to indemnify, defend, and hold harmless Customer from any claims arising from Vendor's breach of this Agreement, gross negligence, or willful misconduct."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "IP_OWNERSHIP",
+      "standard_text": "Vendor retains all intellectual property rights in any materials, tools, or deliverables created by Vendor. Customer receives a perpetual, non-exclusive license to use such materials for its internal business purposes."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "CONFIDENTIALITY",
+      "standard_text": "Both parties agree to maintain the confidentiality of proprietary information exchanged during the term of this Agreement and for a period of five (5) years thereafter."
+    },
+    {
+      "contract_type": "VENDOR_AGREEMENT",
+      "clause_type": "GOVERNING_LAW",
+      "standard_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws principles."
+    },
+    {
+      "contract_type": "EMPLOYMENT",
+      "clause_type": "TERM_TERMINATION",
+      "standard_text": "Either party may terminate this Agreement at any time, with or without cause, upon fourteen (14) days written notice to the other party."
+    },
+    {
+      "contract_type": "EMPLOYMENT",
+      "clause_type": "CONFIDENTIALITY",
+      "standard_text": "Employee agrees to maintain the confidentiality of all proprietary information of the Employer, both during and after employment, and not to disclose such information to any third party."
+    },
+    {
+      "contract_type": "EMPLOYMENT",
+      "clause_type": "IP_OWNERSHIP",
+      "standard_text": "All inventions, discoveries, and works of authorship created by Employee during the course of employment shall be the sole and exclusive property of the Employer."
+    },
+    {
+      "contract_type": "EMPLOYMENT",
+      "clause_type": "INDEMNIFICATION",
+      "standard_text": "Employee agrees to indemnify and hold harmless Employer from any claims arising from Employee's gross negligence, willful misconduct, or breach of this Agreement."
+    },
+    {
+      "contract_type": "EMPLOYMENT",
+      "clause_type": "GOVERNING_LAW",
+      "standard_text": "This Agreement shall be governed by and construed in accordance with the laws of the State where Employee primarily performs services, without regard to its conflict of laws principles."
+    },
+    {
+      "contract_type": "LEASE",
+      "clause_type": "PRICING",
+      "standard_text": "Tenant shall pay monthly rent in the amount specified in Exhibit A, payable on the first day of each month. Rent shall increase annually by three percent (3%) of the then-current rent amount."
+    },
+    {
+      "contract_type": "LEASE",
+      "clause_type": "TERM_TERMINATION",
+      "standard_text": "This Lease shall commence on the Commencement Date and continue for a period of sixty (60) months, unless terminated earlier as provided herein."
+    },
+    {
+      "contract_type": "LEASE",
+      "clause_type": "LIABILITY",
+      "standard_text": "Landlord shall not be liable for any damage to Tenant's property except to the extent caused by Landlord's gross negligence or willful misconduct."
+    },
+    {
+      "contract_type": "LEASE",
+      "clause_type": "INDEMNIFICATION",
+      "standard_text": "Tenant agrees to indemnify, defend, and hold harmless Landlord from any claims arising from Tenant's use of the Premises or Tenant's breach of this Lease."
+    },
+    {
+      "contract_type": "LEASE",
+      "clause_type": "GOVERNING_LAW",
+      "standard_text": "This Lease shall be governed by and construed in accordance with the laws of the State where the Premises are located, without regard to its conflict of laws principles."
+    },
+    {
+      "contract_type": "LEASE",
+      "clause_type": "AUTO_RENEWAL",
+      "standard_text": "This Lease shall not automatically renew. Any renewal term must be agreed upon in writing by both Landlord and Tenant at least ninety (90) days prior to the expiration of the initial term."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "PRICING",
+      "standard_text": "All fees and charges shall be payable in U.S. Dollars unless otherwise agreed in writing by both parties."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "TERM_TERMINATION",
+      "standard_text": "This Agreement may be terminated by either party upon thirty (30) days written notice to the other party for any reason or no reason."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "LIABILITY",
+      "standard_text": "Neither party shall be liable to the other for any indirect, incidental, or consequential damages arising out of this Agreement."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "INDEMNIFICATION",
+      "standard_text": "Each party agrees to indemnify the other party for any losses resulting from its breach of this Agreement or its gross negligence."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "IP_OWNERSHIP",
+      "standard_text": "Each party retains ownership of its pre-existing intellectual property and any intellectual property it develops independently of this Agreement."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "CONFIDENTIALITY",
+      "standard_text": "Confidential information disclosed under this Agreement shall be used solely for the purposes of this Agreement and shall not be disclosed to third parties without prior written consent."
+    },
+    {
+      "contract_type": "OTHER",
+      "clause_type": "GOVERNING_LAW",
+      "standard_text": "This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of laws principles."
+    }
+  ]
+}
